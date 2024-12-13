@@ -1,5 +1,7 @@
 # "rolyPolyVole murders a pig" Video
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > Files for my [YouTube video](https://www.youtube.com/watch?v=qM6ICVC7F3Y) "rolyPolyVole murders a pig" in which [@rolyPolyVole](https://www.github.com/rolyPolyVole) kills a pig (in Minecraft of course).
 
 ## License
